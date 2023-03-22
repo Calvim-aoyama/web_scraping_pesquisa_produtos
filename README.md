@@ -1,2 +1,2 @@
-# web_scrapping_pesquisa_produtos
-Web Scrapping para pesquisa de produtos e preços em sites OLX e mercado livre
+# web_scraping_pesquisa_produtos
+Web Scraping para pesquisa de produtos e preços em sites OLX e mercado livre
